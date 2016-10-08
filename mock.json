@@ -1,0 +1,35 @@
+[{ "name": "The Economist",
+  "text": "Tweet from the economist.",
+  "image_url": "",
+  "profile_picture": "images/economist.jpg",
+  "fav": "2",
+  "retweets": "5"
+},
+{ "name": "Pranav Kulkarni",
+  "text": "I love knockout js!",
+  "image_url": "",
+  "profile_picture": "images/pranav.jpg",
+  "fav": "10",
+  "retweets": "0"
+},
+{ "name": "FC Barcelona",
+  "text": "Cakewalk for barca. Barcelona 10 Real Madrid 0",
+  "image_url": "images/play.jpg",
+  "profile_picture": "images/fcb.jpg",
+  "fav": "1000",
+  "retweets": "100000"
+},
+{ "name": "Pranav Kulkarni",
+  "text": "The master has failed more times than the beginner has even tried.",
+  "image_url": "",
+  "profile_picture": "images/pranav.jpg",
+  "fav": "20",
+  "retweets": "3000"
+},
+{ "name": "FC Barcelona",
+  "text": "Xavi thinks Andres Iniesta is the best Spanish player ever! Do you agree?",
+  "image_url": "images/iniesta.jpg",
+  "profile_picture": "images/fcb.jpg",
+  "fav": "2000",
+  "retweets": "3024"
+}]
